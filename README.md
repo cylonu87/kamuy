@@ -19,4 +19,4 @@ Android 4.1 or higher.
 ## APK Download
 [Direct download](https://github.com/cylonu87/kamuy/releases)
 
-2017-08-04
+2018-03-09
